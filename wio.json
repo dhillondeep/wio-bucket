@@ -1,12 +1,12 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/dhillondeep/wio/releases/download/v0.1.4/wio_0.1.4_windows_32-bit.zip",
+            "url": "https://github.com/dhillondeep/wio/releases/download/v0.1.5/wio_0.1.5_windows_32-bit.zip",
             "bin": "wio.exe"
         },
         "64bit": {
-            "url": "https://github.com/dhillondeep/wio/releases/download/v0.1.4/wio_0.1.4_windows_64-bit.zip",
+            "url": "https://github.com/dhillondeep/wio/releases/download/v0.1.5/wio_0.1.5_windows_64-bit.zip",
             "bin": "wio.exe"
         }
     },
