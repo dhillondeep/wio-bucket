@@ -1,12 +1,12 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/waterloop/wio/releases/download/v0.2.1/wio_0.2.1_windows_32-bit.zip",
+            "url": "https://github.com/waterloop/wio/releases/download/v0.2.2/wio_0.2.2_windows_32-bit.zip",
             "bin": "wio.exe"
         },
         "64bit": {
-            "url": "https://github.com/waterloop/wio/releases/download/v0.2.1/wio_0.2.1_windows_64-bit.zip",
+            "url": "https://github.com/waterloop/wio/releases/download/v0.2.2/wio_0.2.2_windows_64-bit.zip",
             "bin": "wio.exe"
         }
     },
