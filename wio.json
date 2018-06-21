@@ -1,12 +1,12 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/wio/wio/releases/download/v0.3.0/wio_0.3.0_windows_32-bit.zip",
+            "url": "https://github.com/wio/wio/releases/download/v0.3.1/wio_0.3.1_windows_32-bit.zip",
             "bin": "wio.exe"
         },
         "64bit": {
-            "url": "https://github.com/wio/wio/releases/download/v0.3.0/wio_0.3.0_windows_64-bit.zip",
+            "url": "https://github.com/wio/wio/releases/download/v0.3.1/wio_0.3.1_windows_64-bit.zip",
             "bin": "wio.exe"
         }
     },
