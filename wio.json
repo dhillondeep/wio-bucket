@@ -1,16 +1,16 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/wio/wio/releases/download/v0.3.1/wio_0.3.1_windows_32-bit.zip",
+            "url": "https://github.com/wio/wio/releases/download/v0.3.2/wio_windows_i386.zip",
             "bin": "wio.exe"
         },
         "64bit": {
-            "url": "https://github.com/wio/wio/releases/download/v0.3.1/wio_0.3.1_windows_64-bit.zip",
+            "url": "https://github.com/wio/wio/releases/download/v0.3.2/wio_windows_x86_64.zip",
             "bin": "wio.exe"
         }
     },
-    "homepage": "https://github.com/waterloop/wio",
+    "homepage": "https://github.com/wio/wio",
     "license": "MIT",
-    "description": "An Embedded Development Environment"
+    "description": "An Iot Development Environment"
 }
