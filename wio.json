@@ -1,16 +1,16 @@
 {
-    "version": "0.3.2",
+    "version": "0.4.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/wio/wio/releases/download/v0.3.2/wio_windows_i386.zip",
+            "url": "https://github.com/dhillondeep/wio/releases/download/v0.4.0/wio_windows_i386.zip",
             "bin": "wio.exe"
         },
         "64bit": {
-            "url": "https://github.com/wio/wio/releases/download/v0.3.2/wio_windows_x86_64.zip",
+            "url": "https://github.com/dhillondeep/wio/releases/download/v0.4.0/wio_windows_x86_64.zip",
             "bin": "wio.exe"
         }
     },
     "homepage": "https://github.com/wio/wio",
     "license": "MIT",
-    "description": "An Iot Development Environment"
+    "description": "An IOT Development Environment"
 }
