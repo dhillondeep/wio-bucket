@@ -8,7 +8,7 @@
         },
         "64bit": {
             "url": "https://github.com/wio/wio/releases/download/v0.6.0/wio_windows_x86_64.zip",
-            "hash": "f4b7015efd9a78c378439d031442c5802feef4545254d6da59b72d1342c334ed ",
+            "hash": "f4b7015efd9a78c378439d031442c5802feef4545254d6da59b72d1342c334ed",
             "bin": [ ["wio_windows_x86_64.exe", "wio"] ]
         }
     },
