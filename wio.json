@@ -1,15 +1,13 @@
 {
-    "version": "0.8.0",
+    "version": "0.9.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/wio/wio/releases/download/v0.8.0/wio_windows_i386.zip",
-            "hash": "d7a2054af85e1504c0837b2cdc5386868dc8c2e1e893fdec339a2db434f527ad",
-            "bin": [ ["wio_windows_i386.exe", "wio"] ]
+            "url": "https://github.com/wio/wio/releases/download/v0.9.0/wio_0.9.0_windows_32bit.zip",
+            "bin": "wio.exe"
         },
         "64bit": {
-            "url": "https://github.com/wio/wio/releases/download/v0.8.0/wio_windows_x86_64.zip",
-            "hash": "79945dbc90afb4fcd873610e6c6d5bf2c29f8c364724f7c412a0fdd38cdb62d0",
-            "bin": [ ["wio_windows_x86_64.exe", "wio"] ]
+            "url": "https://github.com/wio/wio/releases/download/v0.9.0/wio_0.9.0_windows_64bit.zip",
+            "bin": "wio.exe"
         }
     },
     "homepage": "https://github.com/wio/wio",
