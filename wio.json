@@ -1,16 +1,22 @@
 {
-    "version": "0.9.0",
+    "version": "0.10.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/wio/wio/releases/download/v0.9.0/wio_0.9.0_windows_32bit.zip",
-            "bin": "wio.exe"
+            "url": "https://github.com/wio/wio/releases/download/v0.10.0/wio_0.10.0_windows_32bit.zip",
+            "bin": [
+                "wio.exe"
+            ],
+            "hash": "c95e4a34e240e799b9239f4065ed68bb2b65fa257456f65778c638ea0386bb08"
         },
         "64bit": {
-            "url": "https://github.com/wio/wio/releases/download/v0.9.0/wio_0.9.0_windows_64bit.zip",
-            "bin": "wio.exe"
+            "url": "https://github.com/wio/wio/releases/download/v0.10.0/wio_0.10.0_windows_64bit.zip",
+            "bin": [
+                "wio.exe"
+            ],
+            "hash": "4b9d6306583da1b9b012e5c05f55ddb030b65cf692592748ed29c2d0512086ed"
         }
     },
     "homepage": "https://github.com/wio/wio",
     "license": "MIT",
-    "description": "An IOT Development Environment"
+    "description": "C/C++ development environment"
 }
